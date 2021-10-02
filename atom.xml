@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lbnbk.github.io</id>
     <title>李泊宁的博客</title>
-    <updated>2021-10-02T08:20:34.640Z</updated>
+    <updated>2021-10-02T23:53:03.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lbnbk.github.io"/>
     <link rel="self" href="https://lbnbk.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://lbnbk.github.io/images/avatar.png</logo>
     <icon>https://lbnbk.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 李泊宁的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[悲伤的十一国庆]]></title>
+        <id>https://lbnbk.github.io/post/blog0002/</id>
+        <link href="https://lbnbk.github.io/post/blog0002/">
+        </link>
+        <updated>2021-10-02T23:49:08.000Z</updated>
+        <content type="html"><![CDATA[<p>唉，好悲伤啊，十一不能出市，我想住酒店，市内郊区酒店都满了，只能住楼下葛洲坝宾馆~</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[出去玩喽~]]></title>
         <id>https://lbnbk.github.io/post/blog0001/</id>
