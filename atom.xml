@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lbnbk.github.io</id>
     <title>李泊宁家庭委员会</title>
-    <updated>2021-12-21T05:40:42.686Z</updated>
+    <updated>2021-12-21T05:41:20.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lbnbk.github.io"/>
     <link rel="self" href="https://lbnbk.github.io/atom.xml"/>
@@ -23,12 +23,5 @@
         <link href="https://lbnbk.github.io/jiazhanghui/">
         </link>
         <updated>2021-11-07T05:00:30.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[祖国，生日快乐！]]></title>
-        <id>https://lbnbk.github.io/blog0004/</id>
-        <link href="https://lbnbk.github.io/blog0004/">
-        </link>
-        <updated>2021-10-01T00:00:00.000Z</updated>
     </entry>
 </feed>
