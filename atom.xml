@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lbnbk.github.io</id>
-    <title>李泊宁家庭委员会</title>
-    <updated>2022-05-03T06:13:19.547Z</updated>
+    <title>李泊宁</title>
+    <updated>2022-05-03T06:20:01.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lbnbk.github.io"/>
     <link rel="self" href="https://lbnbk.github.io/atom.xml"/>
-    <subtitle>李泊宁家庭委员会官方网站</subtitle>
+    <subtitle>记录李泊宁的生活</subtitle>
     <logo>https://lbnbk.github.io/images/avatar.png</logo>
     <icon>https://lbnbk.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, 李泊宁家庭委员会</rights>
+    <rights>All rights reserved 2022, 李泊宁</rights>
+    <entry>
+        <title type="html"><![CDATA[开运动会啦！]]></title>
+        <id>https://lbnbk.github.io/post002/</id>
+        <link href="https://lbnbk.github.io/post002/">
+        </link>
+        <updated>2022-05-03T06:15:34.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[多一份坚持 多一份等待 用时间静候花开]]></title>
-        <id>https://lbnbk.github.io/jiazhanghui/</id>
-        <link href="https://lbnbk.github.io/jiazhanghui/">
+        <id>https://lbnbk.github.io/post001/</id>
+        <link href="https://lbnbk.github.io/post001/">
         </link>
         <updated>2021-11-07T05:00:30.000Z</updated>
     </entry>
